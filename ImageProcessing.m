@@ -1,4 +1,3 @@
-% Le Moire
 clear
 clc
 
